@@ -1,4 +1,14 @@
-# Hi, I'm Kevin Varela 👋 
+# Hi, I'm Kevin Varela 👋 📫 
+
+<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/fluency/344/linkedin.png" style="padding-right:10px;" />
+kevinvarelatalamantes@gmail.com
+<br />
+<br />
+
+<br />
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/kevinvarelatalamantes/)](https://www.linkedin.com/in/kevinvarelatalamantes/)
+
 I am a Mechatronic Engineer from Mexico who loves programming, robotics, IT and everything related to tech.
 
 ### Bio
@@ -39,5 +49,5 @@ I´m looking to specialize in programming. I´m a beginner and I´ve worked with
 
 <br />
 
-📫 kevinvarelatalamantes@gmail.com 📫
+
 ------------------------------
