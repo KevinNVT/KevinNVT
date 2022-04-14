@@ -2,6 +2,8 @@
 
 [![Mail](https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com/)](https://gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/kevinvarelatalamantes/)](https://www.linkedin.com/in/kevinvarelatalamantes/)
+<br />
+![Follow](https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000)
 
 I am a Mechatronic Engineer from Mexico who loves programming, robotics, IT and everything related to tech.
 
