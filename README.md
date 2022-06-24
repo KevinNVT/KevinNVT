@@ -14,7 +14,7 @@ I am a Mechatronic Engineer from Mexico who loves programming, robotics, IT and 
 - I've worked in industrial design with SolidWorks and Autodesk Inventor. 📏
 - I've worked in metrology automating the [metrological traceability](https://jcgm.bipm.org/vim/en/2.41.html).
 - I've teaching **Programming** and **Robotics** for children. 🤖
-- I´ve worked with `python`, `C#` and `JS` and I´d like to learn `Git` and improve my skills with `SQL`. 💻
+- I´ve worked with `python`, `C#` and `C` and I´d like to learn `Git` and improve my skills with `SQL` and `Java`. 💻
 
 ### Skills and tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -35,7 +35,7 @@ I am a Mechatronic Engineer from Mexico who loves programming, robotics, IT and 
 <br />
 <br />
 
-💬 Ping me about `python`, `C#` and `JS`. 
+💬 Ping me about `python`, `C#` and `C`. 
 <br />
 🤝 I'm Learning about **Open Source** and **github community** so I'd like to contribute.
 <br />
