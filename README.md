@@ -1,4 +1,7 @@
--- # Hi, I'm Kevin Varela 👋 
+<! -- Hi, I'm Kevin Varela 👋 -->
+
+<h1 align="center">Hey, I'm Kevin Varela</h1>
+<h3 align="center">I am a Mechatronic Engineer from Mexico who loves programming, sports, videogames, PCs and Mechanical Keyboards.</h3>
 
 [![Mail](https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com/)](https://gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/kevinvarelatalamantes/)](https://www.linkedin.com/in/kevinvarelatalamantes/)
