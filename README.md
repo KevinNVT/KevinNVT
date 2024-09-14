@@ -42,7 +42,7 @@
 - I´ve worked with `python`, `Java` , `C#`, `C`, and `C++` and I´d like to improve my skills with `SQL` and `Java`. 💻
 
 
-<img align="left" alt="Java" width="26px" src="https://icons8.com/icon/13679/java" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="padding-right:10px;" />
 
 
 ### Skills and tools
