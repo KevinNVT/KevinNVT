@@ -13,13 +13,17 @@
 + -->
 
 <div align="center">
-  <a href="mailto:kevinvarelatalamantes@gmail.com" style="text-decoration: none; display: inline-block; font-size: 0;">
-    <img src="https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" style="display: block;">
-  </a>
+  <span style="display: inline-block; line-height: 0;">
+    <a href="mailto:kevinvarelatalamantes@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+    </a>
+  </span>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kevinvarelatalamantes/" style="text-decoration: none; display: inline-block; font-size: 0;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="display: block;">
-  </a>
+  <span style="display: inline-block; line-height: 0;">
+    <a href="https://www.linkedin.com/in/kevinvarelatalamantes/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+  </span>
 </div>
 
 <div align="center">
