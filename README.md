@@ -45,22 +45,22 @@
 <!-- + Languages + -->
 <p align="left" style="display: flex; align-items: center;">
   <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img alt="Python" width="26px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;" />
-  <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-  <img alt="Java" width="36px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="padding-right:10px;" />
+  <img alt="Python" width="30px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;" />
+  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img alt="Java" width="40px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="padding-right:10px;" />
 </p>
 
 <!-- + Frameworks + -->
 
 <!-- + Git + -->
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <!-- + Others + -->
-<img align="left" alt="Matlab" width="28px" src="https://user-images.githubusercontent.com/98143109/163080560-5b495d34-1a2d-4560-8cd2-480475e13ff0.png" style="padding-right:10px;" />
-<img align="left" alt="SolidWorks" width="28px" src="https://img.icons8.com/color/344/solidworks.png" style="padding-right:10px;" />
-<img align="left" alt="Autodesk" width="28px" src="https://user-images.githubusercontent.com/98143109/163080445-0b4e0f81-31c0-441e-b75d-37496bfbbb52.png" style="padding-right:10px;" />
-<img align="left" alt="Office_365" width="28px" src="https://user-images.githubusercontent.com/98143109/163080652-04f1e742-03b6-4382-81c1-fce2f2160444.png" style="padding-right:10px;" />
+<img align="left" alt="Matlab" width="32px" src="https://user-images.githubusercontent.com/98143109/163080560-5b495d34-1a2d-4560-8cd2-480475e13ff0.png" style="padding-right:10px;" />
+<img align="left" alt="SolidWorks" width="32px" src="https://img.icons8.com/color/344/solidworks.png" style="padding-right:10px;" />
+<img align="left" alt="Autodesk" width="32px" src="https://user-images.githubusercontent.com/98143109/163080445-0b4e0f81-31c0-441e-b75d-37496bfbbb52.png" style="padding-right:10px;" />
+<img align="left" alt="Office_365" width="32px" src="https://user-images.githubusercontent.com/98143109/163080652-04f1e742-03b6-4382-81c1-fce2f2160444.png" style="padding-right:10px;" />
 <br />
 <br />
 
