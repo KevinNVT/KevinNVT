@@ -5,8 +5,8 @@
 
 [![Mail](https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com/)](https://gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/kevinvarelatalamantes/)](https://www.linkedin.com/in/kevinvarelatalamantes/)
-<br />
 ![Follow](https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000) <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt" /> </p>
+<br />
 
 ### Info
 
@@ -15,7 +15,7 @@
 - I've worked in industrial design with SolidWorks and Autodesk Inventor. 📏
 - I've worked in metrology automating the [metrological traceability](https://jcgm.bipm.org/vim/en/2.41.html).
 - I've teaching **Programming** and **Robotics** for children. 🤖
-- I´ve worked with `python`, `C#` and `C` and I´d like to learn `Git` and improve my skills with `SQL` and `Java`. 💻
+- I´ve worked with `python`, `Java` , `C#`, `C`, and `C++` and I´d like to improve my skills with `SQL` and `Java`. 💻
 
 ### Skills and tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
