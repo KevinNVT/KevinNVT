@@ -12,7 +12,7 @@
 ![Follow](https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000) <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt" /> </p>
 + -->
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; margin: 0 auto;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
       <a href="mailto:kevinvarelatalamantes@gmail.com" style="text-decoration: none;">
