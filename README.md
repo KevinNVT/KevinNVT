@@ -1,4 +1,4 @@
-<! -- Hi, I'm Kevin Varela 👋 -->
+<!-- + 👋 Hi, I'm Kevin Varelat + -->
 
 <h1 align="center">Hey, I'm Kevin Varela</h1>
 <h3 align="center">I am a Mechatronic Engineer from Mexico who loves programming, sports, videogames, PCs and Mechanical Keyboards.</h3>
