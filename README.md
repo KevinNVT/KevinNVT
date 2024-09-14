@@ -45,11 +45,12 @@
 
 <p align="left" style="display: flex; align-items: center;">
   <!-- + Languages + -->
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;" />
   <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Java" width="40px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="padding-right:10px;" />
+  <img align="left" alt="Java" width="30px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="padding-right:10px;" />
   <!-- + Frameworks + -->
+  <!-- + IDEs + -->
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <!-- + Git + -->
   <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
@@ -64,7 +65,7 @@
 
 💬 Ping me about `python`, `C#` and `C`. 
 <br />
-🤝 I'm Learning about **Open Source** and **github community** so I'd like to contribute.
+🤝 I'd like to contribute to **Open Source** projects and **GitHub community**.
 <br />
 
 ------------------------------
