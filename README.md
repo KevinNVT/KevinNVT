@@ -7,6 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/kevinvarelatalamantes/)](https://www.linkedin.com/in/kevinvarelatalamantes/)
 <br />
 ![Follow](https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt" /> </p>
 
 ### Info
 
@@ -43,15 +44,8 @@
 
 ------------------------------
 
-<h1 align="center">Hey, I'm Kevin Varela</h1>
-<h3 align="center">I am a Mechatronic Engineer from Mexico who loves programming, sports, videogames, PCs and Mechanical Keyboards.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt" /> </p>
-
 - 🌱 I’m currently learning **Spring and GCP**
-
 - 👯 I’m looking to collaborate on **Java**
-
 - How to reach me **kevinvarelatalamantes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
