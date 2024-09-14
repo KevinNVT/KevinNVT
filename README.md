@@ -1,8 +1,5 @@
-<!-- + 👋 Hi, I'm Kevin Varelat + -->
-
 <h1 align="center">Hey, I'm Kevin Varela</h1>
 <h3 align="center">I am a Mechatronic Engineer from Mexico who loves programming, sports, videogames, PCs and Mechanical Keyboards.</h3>
-
 
 <!-- + + -->
 
@@ -32,13 +29,16 @@
   <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt">
 </div>
 
+------------------------------
+
 ### Info
 
-- Recently graduated. 👨‍🎓
 - I'm currently looking for a tech job and constant learning. 🔎
 - I've worked in industrial design with SolidWorks and Autodesk Inventor. 📏
 - I've worked in metrology automating the [metrological traceability](https://jcgm.bipm.org/vim/en/2.41.html).
 - I've teaching **Programming** and **Robotics** for children. 🤖
+- 🌱 I’m currently learning **Spring and GCP**
+- 👯 I’m looking to collaborate on **Java**
 - I´ve worked with `python`, `Java` , `C#`, `C`, and `C++` and I´d like to improve my skills with `SQL` and `Java`. 💻
 
 ### Skills and tools
@@ -66,10 +66,6 @@
 <br />
 
 ------------------------------
-
-- 🌱 I’m currently learning **Spring and GCP**
-- 👯 I’m looking to collaborate on **Java**
-- How to reach me **kevinvarelatalamantes@gmail.com**
 
 <!-- + 
 <h3 align="left">Connect with me:</h3>
