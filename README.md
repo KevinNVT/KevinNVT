@@ -16,7 +16,7 @@
   <a href="mailto:kevinvarelatalamantes@gmail.com">
     <img src="https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
   </a>
-  <!-- + &nbsp;&nbsp;&nbsp; + -->
+&nbsp;&nbsp;&nbsp;&nbsp
   <a href="https://www.linkedin.com/in/kevinvarelatalamantes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
