@@ -3,7 +3,10 @@
 <h1 align="center">Hey, I'm Kevin Varela</h1>
 <h3 align="center">I am a Mechatronic Engineer from Mexico who loves programming, sports, videogames, PCs and Mechanical Keyboards.</h3>
 
-<!-- +
+
+<!-- + + -->
+
+<!-- +      
 [![Mail](https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://gmail.com/)](https://gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/kevinvarelatalamantes/)](https://www.linkedin.com/in/kevinvarelatalamantes/)
 ![Follow](https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000) <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt" /> </p>
@@ -13,7 +16,7 @@
   <a href="mailto:kevinvarelatalamantes@gmail.com">
     <img src="https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <!-- + &nbsp;&nbsp;&nbsp; + -->
   <a href="https://www.linkedin.com/in/kevinvarelatalamantes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
