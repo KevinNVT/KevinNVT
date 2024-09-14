@@ -59,8 +59,7 @@
   <img align="left" alt="Autodesk" width="32px" src="https://user-images.githubusercontent.com/98143109/163080445-0b4e0f81-31c0-441e-b75d-37496bfbbb52.png" style="padding-right:10px;" />
   <img align="left" alt="Office_365" width="32px" src="https://user-images.githubusercontent.com/98143109/163080652-04f1e742-03b6-4382-81c1-fce2f2160444.png" style="padding-right:10px;" />
 </p>
-<br />
-<br />
+
 
 💬 Ping me about `python`, `C#` and `C`. 
 <br />
