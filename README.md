@@ -28,6 +28,19 @@
   <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt">
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" onclick="window.location.href='mailto:kevinvarelatalamantes@gmail.com';" style="cursor: pointer;">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" onclick="window.location.href='https://www.linkedin.com/in/kevinvarelatalamantes/';" style="cursor: pointer;">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000" alt="Follow">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kevinnvt&label=Profile%20views&color=0e75b6&style=flat" alt="kevinnvt">
+</div>
+
 ### Info
 
 - Recently graduated. 👨‍🎓
