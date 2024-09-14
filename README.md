@@ -47,7 +47,7 @@
   <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img alt="Python" width="26px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;" />
   <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-  <img alt="Java" width="42px" src="https://img.icons8.com/?size=512&id=13679&format=png" style="padding-right:10px;" />
+  <img alt="Java" width="38px" src="https://img.icons8.com/?size=512&id=13679&format=png" style="padding-right:10px;" />
 </p>
 
 <!-- + Frameworks + -->
