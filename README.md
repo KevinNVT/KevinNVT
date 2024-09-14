@@ -8,8 +8,6 @@
 <br />
 ![Follow](https://img.shields.io/github/followers/KevinNVT.svg?style=social&label=Follow&maxAge=2592000)
 
-I am a Mechatronic Engineer from Mexico who loves programming, robotics, IT and everything related to tech.
-
 ### Info
 
 - Recently graduated. 👨‍🎓
