@@ -13,11 +13,11 @@
 + -->
 
 <div align="center">
-  <a href="mailto:kevinvarelatalamantes@gmail.com" style="text-decoration: none;">
+  <a href="mailto:kevinvarelatalamantes@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
     <img src="https://img.shields.io/badge/kevinvarelatalamantes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kevinvarelatalamantes/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/kevinvarelatalamantes/" style="text-decoration: none; display: inline-block; line-height: 0;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 </div>
