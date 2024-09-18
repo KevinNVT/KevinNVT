@@ -28,8 +28,8 @@
 - I've worked in industrial design with SolidWorks and Autodesk Inventor. 📏
 - I've worked in metrology automating the [metrological traceability](https://jcgm.bipm.org/vim/en/2.41.html).
 - I've teaching **Programming** and **Robotics** for children. 🤖
-- 🌱 I’m currently learning **Spring and GCP**
-- 👯 I’m looking to collaborate on **Java**
+- 🌱 I’m currently learning **Spring and GCP**.
+- 👯 I’m looking to collaborate on **Java**.
 - 💻 I´ve worked with `python`, `Java` , `C#`, `C`, and `C++` and I´d like to improve my skills with `SQL` and `Java`. 
 
 ### Skills and tools
