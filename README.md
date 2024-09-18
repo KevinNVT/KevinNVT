@@ -30,7 +30,7 @@
 - I've teaching **Programming** and **Robotics** for children. 🤖
 - 🌱 I’m currently learning **Spring and GCP**.
 - 👯 I’m looking to collaborate on **Java**.
-- 💻 I´ve worked with `python`, `Java` , `C#`, `C`, and `C++` and I´d like to improve my skills with `SQL` and `Java`. 
+- 💻 I´ve worked with `Java`, `Python` , `C#`, `C`, and `C++`. I´d like to improve my skills with `SQL` and `Java`. 
 
 ### Skills and tools
 <p align="left" style="display: flex; align-items: center;">
