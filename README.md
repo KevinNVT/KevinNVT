@@ -61,9 +61,9 @@
 <br />
 
 <!-- + Interests + -->
-💬 Ping me about `python`, `C#` and `C`. 
+- 💬 Ping me about `Java`, `Python` and `C#`. 
 <br />
-🤝 I'd like to contribute to **Open Source** projects and **GitHub community**.
+- 🤝 I'd like to contribute to **Open Source** projects and **GitHub community**.
 <br />
 ------------------------------
 
